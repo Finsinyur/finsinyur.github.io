@@ -477,8 +477,8 @@ input[type="checkbox"] {
     text-align: center;
 }
 .addo-hero .flexslider .slider-text > .slider-text-inner .desc .image_wrap {
-    width: 200px;
-    height: 200px;
+    width: 400px;
+    height: 400px;
     display: inline-block;
     margin-bottom: 0;
 }
