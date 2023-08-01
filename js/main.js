@@ -74,7 +74,7 @@
         }
         else {
             navbar.removeClass("nav-scroll");
-            logo.attr('src', 'img/logo-main.png');
+            logo.attr('src', 'img/logo-main-white.png');
         }
     });
     // Close navbar-collapse when a  clicked
