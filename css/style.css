@@ -337,10 +337,10 @@ input[type="checkbox"] {
 
 /* Caption text */
 .text {
-  color: #f2f2f2;
+  color: #101010;
   font-size: 15px;
   padding: 8px 12px;
-  position: absolute;
+  position: relative;
   bottom: 8px;
   width: 100%;
   text-align: center;
@@ -394,7 +394,7 @@ input[type="checkbox"] {
 
 .addo-banner {
     min-height: 100px;
-    background: #fff url(../img/background-alt.png);
+    background: #fff url(../img/background.png);
     width: 100%;
     background-position: center;
     background-repeat: no-repeat;
@@ -477,8 +477,8 @@ input[type="checkbox"] {
     text-align: center;
 }
 .addo-hero .flexslider .slider-text > .slider-text-inner .desc .image_wrap {
-    width: 200px;
-    height: 200px;
+    width: 300px;
+    height: 300px;
     display: inline-block;
     margin-bottom: 0;
 }
@@ -525,6 +525,7 @@ input[type="checkbox"] {
 .addo-hero .flexslider .slider-text > .slider-text-inner h1 {
     font-size: 45px;
     color: #fff;
+    /*background-color: black;*/
     font-family: 'Oswald', sans-serif;
     font-weight: 500;
     margin: 0;
@@ -1385,6 +1386,7 @@ hr {
     display: inline-block;
     position: relative;
     text-align: left;
+    background-color: black;
 }
 .cd-words-wrapper b {
     display: inline-block;
